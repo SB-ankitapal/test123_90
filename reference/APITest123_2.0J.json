@@ -147,7 +147,7 @@
         "operationId": "post-user",
         "responses": {
           "200": {
-            "description": "User Created",
+            "description": "User Created****",
             "schema": {
               "$ref": "#/definitions/User"
             }
